@@ -8,7 +8,6 @@ A complete end-to-end machine learning pipeline for predicting credit card payme
 
 ```
 ├── Credit_Card.csv                  # Dataset (see details below)
-├── credit_card_assignment.ipynb     # Main Jupyter notebook (Google Colab ready)
 └── README.md                        # This file
 ```
 
